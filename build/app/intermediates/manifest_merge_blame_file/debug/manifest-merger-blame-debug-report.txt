@@ -13,8 +13,8 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->C:\Users\OLAGUSER\Desktop\Flutter Dev\group_chatapp_flutter_firebase-main\android\app\src\debug\AndroidManifest.xml:7:5-66
-15-->C:\Users\OLAGUSER\Desktop\Flutter Dev\group_chatapp_flutter_firebase-main\android\app\src\debug\AndroidManifest.xml:7:22-64
+15-->C:\Users\OLAGUSER\Desktop\Flutter Dev\OLAG-CHAT\android\app\src\debug\AndroidManifest.xml:7:5-66
+15-->C:\Users\OLAGUSER\Desktop\Flutter Dev\OLAG-CHAT\android\app\src\debug\AndroidManifest.xml:7:22-64
 16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 16-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\OLAGUSER\.gradle\caches\transforms-3\022b72b7187255eca7afd25c2c2ff9c7\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:24:5-79
 16-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\OLAGUSER\.gradle\caches\transforms-3\022b72b7187255eca7afd25c2c2ff9c7\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:24:22-76
@@ -60,31 +60,31 @@
 55            android:value="2" />
 56
 57        <service
-57-->[:firebase_auth] C:\Users\OLAGUSER\Desktop\Flutter Dev\group_chatapp_flutter_firebase-main\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+57-->[:firebase_auth] C:\Users\OLAGUSER\Desktop\Flutter Dev\OLAG-CHAT\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
 58            android:name="com.google.firebase.components.ComponentDiscoveryService"
-58-->[:firebase_auth] C:\Users\OLAGUSER\Desktop\Flutter Dev\group_chatapp_flutter_firebase-main\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
+58-->[:firebase_auth] C:\Users\OLAGUSER\Desktop\Flutter Dev\OLAG-CHAT\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
 59            android:directBootAware="true"
 59-->[com.google.firebase:firebase-common:20.2.0] C:\Users\OLAGUSER\.gradle\caches\transforms-3\1f5293cac7ee6599710ad386efb328c8\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:34:13-43
 60            android:exported="false" >
 60-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\OLAGUSER\.gradle\caches\transforms-3\022b72b7187255eca7afd25c2c2ff9c7\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:66:13-37
 61            <meta-data
-61-->[:firebase_auth] C:\Users\OLAGUSER\Desktop\Flutter Dev\group_chatapp_flutter_firebase-main\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+61-->[:firebase_auth] C:\Users\OLAGUSER\Desktop\Flutter Dev\OLAG-CHAT\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 62                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-62-->[:firebase_auth] C:\Users\OLAGUSER\Desktop\Flutter Dev\group_chatapp_flutter_firebase-main\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+62-->[:firebase_auth] C:\Users\OLAGUSER\Desktop\Flutter Dev\OLAG-CHAT\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 63                android:value="com.google.firebase.components.ComponentRegistrar" />
-63-->[:firebase_auth] C:\Users\OLAGUSER\Desktop\Flutter Dev\group_chatapp_flutter_firebase-main\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+63-->[:firebase_auth] C:\Users\OLAGUSER\Desktop\Flutter Dev\OLAG-CHAT\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 64            <meta-data
-64-->[:cloud_firestore] C:\Users\OLAGUSER\Desktop\Flutter Dev\group_chatapp_flutter_firebase-main\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+64-->[:cloud_firestore] C:\Users\OLAGUSER\Desktop\Flutter Dev\OLAG-CHAT\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 65                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-65-->[:cloud_firestore] C:\Users\OLAGUSER\Desktop\Flutter Dev\group_chatapp_flutter_firebase-main\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
+65-->[:cloud_firestore] C:\Users\OLAGUSER\Desktop\Flutter Dev\OLAG-CHAT\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
 66                android:value="com.google.firebase.components.ComponentRegistrar" />
-66-->[:cloud_firestore] C:\Users\OLAGUSER\Desktop\Flutter Dev\group_chatapp_flutter_firebase-main\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+66-->[:cloud_firestore] C:\Users\OLAGUSER\Desktop\Flutter Dev\OLAG-CHAT\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 67            <meta-data
-67-->[:firebase_core] C:\Users\OLAGUSER\Desktop\Flutter Dev\group_chatapp_flutter_firebase-main\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+67-->[:firebase_core] C:\Users\OLAGUSER\Desktop\Flutter Dev\OLAG-CHAT\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 68                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-68-->[:firebase_core] C:\Users\OLAGUSER\Desktop\Flutter Dev\group_chatapp_flutter_firebase-main\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+68-->[:firebase_core] C:\Users\OLAGUSER\Desktop\Flutter Dev\OLAG-CHAT\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 69                android:value="com.google.firebase.components.ComponentRegistrar" />
-69-->[:firebase_core] C:\Users\OLAGUSER\Desktop\Flutter Dev\group_chatapp_flutter_firebase-main\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+69-->[:firebase_core] C:\Users\OLAGUSER\Desktop\Flutter Dev\OLAG-CHAT\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 70            <meta-data
 70-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\OLAGUSER\.gradle\caches\transforms-3\022b72b7187255eca7afd25c2c2ff9c7\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:67:13-69:85
 71                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"

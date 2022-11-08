@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\OLAGUSER\\Desktop\\Flutter Dev\\group_chatapp_flutter_firebase-main\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
+            "outputFile": "C:\\Users\\OLAGUSER\\Desktop\\Flutter Dev\\OLAG-CHAT\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\OLAGUSER\\.gradle\\caches\\transforms-3\\5de754888986f466914b1fadddc001cb\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-mr\\values.xml",
