@@ -71,7 +71,7 @@ class _GroupInfoState extends State<GroupInfo> {
                             },
                             icon: const Icon(
                               Icons.cancel,
-                              color: Colors.red,
+                              color: Colors.blue,
                             ),
                           ),
                           IconButton(

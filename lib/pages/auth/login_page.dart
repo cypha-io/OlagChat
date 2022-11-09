@@ -53,7 +53,7 @@ class _LoginPageState extends State<LoginPage> {
                         Image.asset("assets/login.png"),
                         TextFormField(
                           decoration: textInputDecoration.copyWith(
-                              labelText: "Email",
+                              labelText: "Email (eg. I279@olagshs.edu.gh)",
                               prefixIcon: Icon(
                                 Icons.email,
                                 color: Theme.of(context).primaryColor,
@@ -160,7 +160,7 @@ class _LoginPageState extends State<LoginPage> {
           await HelperFunctions.saveUserNameSF(snapshot.docs[0]['fullName']);
           nextScreenReplace(context, const HomePage());
         } else {
-          showSnackbar(context, Colors.red, value);
+          showSnackbar(context, Colors.blue, value);
           setState(() {
             _isLoading = false;
           });

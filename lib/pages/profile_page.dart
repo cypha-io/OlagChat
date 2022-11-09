@@ -91,7 +91,7 @@ class _ProfilePageState extends State<ProfilePage> {
                           },
                           icon: const Icon(
                             Icons.cancel,
-                            color: Colors.red,
+                            color: Colors.blue,
                           ),
                         ),
                         IconButton(
