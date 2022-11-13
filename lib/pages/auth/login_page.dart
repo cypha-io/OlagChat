@@ -53,7 +53,7 @@ class _LoginPageState extends State<LoginPage> {
                         Image.asset("assets/login.png"),
                         TextFormField(
                           decoration: textInputDecoration.copyWith(
-                              labelText: "Email (eg. I279@olagshs.edu.gh)",
+                              labelText: "eg.I279@olagshs.edu.gh",
                               prefixIcon: Icon(
                                 Icons.email,
                                 color: Theme.of(context).primaryColor,
