@@ -1,6 +1,6 @@
 {
     "name": "chatapp_firebase",
-    "short_name": "chatapp_firebase",
+    "short_name": "OLAG-CHAt",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
